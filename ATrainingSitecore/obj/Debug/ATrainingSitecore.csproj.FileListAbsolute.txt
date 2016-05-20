@@ -1,0 +1,110 @@
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\csc.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\vbc.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\ATrainingSitecore.dll.config
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\ATrainingSitecore.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\ATrainingSitecore.pdb
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Helpers.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Mvc.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Razor.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Razor.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Helpers.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\System.Web.Mvc.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\obj\Debug\ATrainingSitecore.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\obj\Debug\ATrainingSitecore.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\obj\Debug\ATrainingSitecore.pdb
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Kamsar.WebConsole.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\MicroCHAP.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Rainbow.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Rainbow.Storage.Sc.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Rainbow.Storage.Yaml.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Unicorn.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Newtonsoft.Json.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Lucene.Net.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\ITHit.WebDAV.Server.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Sitecore.Logging.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\HtmlAgilityPack.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Mvp.Xml.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\ComponentArt.Web.UI.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Sitecore.Zip.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Sitecore.NVelocity.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Sitecore.Logging.Client.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\RadEditor.Net2.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Telerik.Web.UI.dll
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Newtonsoft.Json.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Lucene.Net.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\HtmlAgilityPack.xml
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ATrainingSitecore\bin\Telerik.Web.UI.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\ATrainingSitecore.dll.config
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\ATrainingSitecore.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\ATrainingSitecore.pdb
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Kamsar.WebConsole.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\MicroCHAP.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Rainbow.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Rainbow.Storage.Sc.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Rainbow.Storage.Yaml.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.Deployment.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.Razor.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Unicorn.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Lucene.Net.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\ITHit.WebDAV.Server.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Sitecore.Logging.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\HtmlAgilityPack.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Mvp.Xml.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\ComponentArt.Web.UI.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Sitecore.Zip.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Sitecore.NVelocity.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Sitecore.Logging.Client.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\RadEditor.Net2.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Telerik.Web.UI.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.Deployment.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Webpages.Razor.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Lucene.Net.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\HtmlAgilityPack.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\bin\Telerik.Web.UI.xml
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\obj\Debug\ATrainingSitecore.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\obj\Debug\ATrainingSitecore.dll
+C:\inetpub\wwwroot\ATrainingSitecore\Solution\ATrainingSitecore\obj\Debug\ATrainingSitecore.pdb
