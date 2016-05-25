@@ -30,5 +30,32 @@ namespace ATrainingSitecore.Controllers
             var menu_items = home_item.GetChildren().ToArray();
             return View(menu_items);
         }
+
+        public ActionResult Footer()
+        {
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            return View();
+        }
+        public ActionResult WorldwideOffices()
+        {
+            return View();
+        }
+        public ActionResult SolutionSuites()
+        {
+            return View();
+        }
+        public ActionResult Strategies()
+        {
+            return View();
+        }
+        public ActionResult ContextTechnology()
+        {
+            return View();
+        }
+
     }
 }

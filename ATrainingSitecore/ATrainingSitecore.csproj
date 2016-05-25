@@ -142,6 +142,8 @@
     <Compile Include="App_Start\GlassMapperSc.cs" />
     <Compile Include="App_Start\GlassMapperScCustom.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\DigitalAssetController.cs" />
     <Compile Include="Controllers\MainController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -242,7 +244,19 @@
     <Content Include="Views\Main\Countries.cshtml" />
     <Content Include="Views\Main\Header.cshtml" />
     <Content Include="Views\Main\Home.cshtml" />
-    <Content Include="Views\Subloyouts\MainSubloyout.cshtml" />
+    <Content Include="Views\DigitalAsset\DigitalAssetLeftSide.cshtml" />
+    <Content Include="Views\DigitalAsset\DigitalAssetMiddle.cshtml" />
+    <Content Include="Views\DigitalAsset\DigitalAssetRightSide.cshtml" />
+    <Content Include="Views\Home\HomeLeftSide.cshtml" />
+    <Content Include="Views\Home\HomeMiddle.cshtml" />
+    <Content Include="Views\Home\HomeRightSide.cshtml" />
+    <Content Include="Views\Home\Slides.cshtml" />
+    <Content Include="Views\Main\Footer.cshtml" />
+    <Content Include="Views\Main\Contact.cshtml" />
+    <Content Include="Views\Main\WorldwideOffices.cshtml" />
+    <Content Include="Views\Main\SolutionSuites.cshtml" />
+    <Content Include="Views\Main\Strategies.cshtml" />
+    <Content Include="Views\Main\ContextTechnology.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
